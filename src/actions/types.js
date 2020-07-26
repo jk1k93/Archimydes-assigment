@@ -1,0 +1,7 @@
+export const AUTHENTICATED = "AUTHENTICATED";
+export const LOGOUT = "LOGOUT";
+
+export const STORIES_FETCHED = "STORIES_FETCHED";
+export const STORY_CREATED = "STORY_CREATED";
+export const STORY_ACCEPTED = "STORY_ACCEPTED";
+export const STORY_REJECTED = "STORY_REJECTED";
